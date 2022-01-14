@@ -1,0 +1,33 @@
+{
+  "name": "proposal-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasrguerra/proposal-frontend.git"
+  },
+  "keywords": [],
+  "author": "lucasrguerra",
+  "license": "Apache License 2.0",
+  "bugs": {
+    "url": "https://github.com/lucasrguerra/proposal-frontend/issues"
+  },
+  "homepage": "https://github.com/lucasrguerra/proposal-frontend#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "next": "^12.0.8",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.2",
+    "postcss": "^8.4.5",
+    "tailwindcss": "^3.0.13"
+  }
+}
